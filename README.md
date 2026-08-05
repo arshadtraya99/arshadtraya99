@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>- 🎓 Second-year B.Tech CSE (AI & ML) Student<br>- 💻 Passionate about Software Development & Problem Solving<br>- 🌱 Currently learning Java, DSA, SQL, JavaScript, React & Node.js<br>- 🚀 Building Full Stack Projects<br>- 🤝 Open to collaborating on Open Source & Hackathons<br>- 📫 Reach me at: your-email@example.com<br>- ⚡ Fun fact: I love debugging more than writing the first line of code 😄
+<br><br>- 🎓 Second-year B.Tech CSE (AI & ML) Student<br>- 💻 Passionate about Software Development & Problem Solving<br>- 🌱 Currently learning Java, DSA, SQL, JavaScript, React & Node.js<br>- 🚀 Building Full Stack Projects<br>- 🤝 Open to collaborating on Open Source & Hackathons<br>- 📫 Reach me at: arshadtraya18@gmail.com<br>- ⚡ Fun fact: I love debugging more than writing the first line of code 😄
 
 
 ## 🌐 Socials:
