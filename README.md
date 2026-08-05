@@ -1,76 +1,18 @@
-<h1 align="center">Hi 👋, I'm Arshad Traya</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | Full-Stack Learner</h3>
+# 💫 About Me:
+<br><br>- 🎓 Second-year B.Tech CSE (AI & ML) Student<br>- 💻 Passionate about Software Development & Problem Solving<br>- 🌱 Currently learning Java, DSA, SQL, JavaScript, React & Node.js<br>- 🚀 Building Full Stack Projects<br>- 🤝 Open to collaborating on Open Source & Hackathons<br>- 📫 Reach me at: your-email@example.com<br>- ⚡ Fun fact: I love debugging more than writing the first line of code 😄
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arshadtraya99&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Arshad Traya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arshadtraya18@gmail.com) 
 
-## 🚀 About Me
-
-- 🎯 Interested in **Machine Learning, Computer Vision, and Web Development**
-- 🌱 Currently learning **JavaScript, MERN Stack, OpenCV**
-- 👯 Open to collaborating on **Cloud-Native & ML-based projects**
-- 📫 Reach me at **arshadtraya18@gmail.com**
-
-<br />
-<br />
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=arshadtraya99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=arshadtraya99&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arshadtraya99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=arshadtraya99&icon=1&color=0)](https://visitcount.itsvg.in)
 
-## 🤝 Connect With Me
-
-<br />
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/arshad-traya/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/arshadtraya" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/arshadtraya" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40"/>
-  </a>
-</p>
-
-<br />
-<br />
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-</p>
-
-### Web & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-</p>
-
-### ML / Data
-<p>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-</p>
-
----
-
-## 🎯 Current Focus
-
-- Strengthening **Python & ML fundamentals**
-- Building **real-world OpenCV projects**
-- Improving **problem-solving & DSA**
-- Preparing for **internships / open-source contributions**
-
-> *Small commits every day beat big plans once a month.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
